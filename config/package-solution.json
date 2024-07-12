@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "TreeView-WebPart",
+    "id": "9cdcebc5-3cde-4395-a7c3-91a8dbc5ef46",
+    "version": "1.0.0.1",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.19.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "TreeView-WebPart"
+      },
+      "longDescription": {
+        "default": "TreeView-WebPart"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "projektverwaltung Feature",
+        "description": "The feature that activates elements of the TreeView-WebPart solution.",
+        "id": "3677bbca-355b-49b0-beb2-c8e42cffab7c",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/TreeView-WebPart.sppkg"
+  }
+}

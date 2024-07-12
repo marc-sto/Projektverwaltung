@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.20.2",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.19.0",
+    "libraryName": "projektverwaltung",
+    "libraryId": "9cdcebc5-3cde-4395-a7c3-91a8dbc5ef47",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "projektverwaltung",
+    "solutionShortDescription": "projektverwaltung description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
